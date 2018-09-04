@@ -43,7 +43,6 @@
 <img width="250" src="https://github.com/inswag/resume/blob/master/images/AirBnB_Main.PNG">
 <img width="250" src="https://github.com/inswag/resume/blob/master/images/AirBnB_HouseList.PNG">
 <img width="250" src="https://github.com/inswag/resume/blob/master/images/AirBnB_countingPeople.PNG">  
-      
 <img width="250" src="https://github.com/inswag/resume/blob/master/images/AirBnB_Search.PNG">
 <img width="250" src="https://github.com/inswag/resume/blob/master/images/AirBnB_SeoulHouse.PNG">
 <img width="250" src="https://github.com/inswag/resume/blob/master/images/AirBnB_SaveList.PNG">
@@ -53,8 +52,6 @@
 - 기간 : 2018/07/13
 - 역할 : 카메라 및 필터 구현
 - 기술 : Swift
-
-
 
 
 ## 부가 정보
