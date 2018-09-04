@@ -38,7 +38,7 @@
 - 기간 : 2018/07/30 ~ 2018/08/24
 - 역할 : Main Page, Save List 구현
 - 기술 : Swift
-
+#### Screen Shots
 <div>
 <img width="250" src="https://github.com/inswag/resume/blob/master/images/AirBnB_Main.PNG">
 <img width="250" src="https://github.com/inswag/resume/blob/master/images/AirBnB_HouseList.PNG">
