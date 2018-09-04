@@ -1,8 +1,10 @@
 # 이력서
-언어 : 한국어 / English / Français 
+언어 : [한국어](https://github.com/inswag/resume/blob/master/README_KR.md) / 
+      [English](https://github.com/inswag/resume/blob/master/README_EN.md) / 
+      [Français](https://github.com/inswag/resume/blob/master/README_FR.md) 
 
 ## SNS
-- 깃허브 : https://gitbut.com/inswag
+- 깃허브 : https://github.com/inswag
 - 블로그 : http://atelier-chez-moi.tistory.com
 - 페이스북 : http://www.facebook.com/nameisssu
 - 인스타그램 : https://www.instagram.com/inswag_
@@ -37,14 +39,17 @@
 - 역할 : Main Page 구현
 - 기술 : iOS(Swift)
 
-
 ## 부가 정보
+### 구사 가능 언어
+- 한국어
+- 영어
+- 프랑스어
 
 ### 대학 생활
 - 한국외국어대학교 프랑스학(문학사), 광역특화(국제지역학) 전공 (2011 ~ 2018)
 - Université de Caen Normandie 어학연수 (2016)
 - 한-외 대학생 교류 프로그램 Locality Summer School 수료 (2015. 7 ~ 8, 2017. 6 ~ 7)
-- (사)한-아프리카 교류 협회 도서 마그레브 3국 이야기 불-한번역 참여 (2015) 
+- (사)아프리카미래전략센터 도서 '북아프리카 3국 문화 이야기' 불-한번역 참여 (2015) 
 - 한국외국어대학교 튜터링 프로그램 프랑스어 튜터과정수료 (2015)
 - 한국외국어대학교 프랑스학과 학술학회 기획, 운영팀 활동 (2014)
 - 한국외국어대학교 프랑스학과 창작음악학회 신입생 대표 (2011)
@@ -59,7 +64,3 @@
 - 한국외대 로컬리티 사업단 주최
 - 2015년 10월
 
-### 구사 가능 언어
-- 한국어
-- 영어
-- 프랑스어
