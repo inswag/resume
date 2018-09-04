@@ -24,7 +24,7 @@ Langue : [Coréen](https://github.com/inswag/resume/blob/master/README_KR.md) /
 ## Activité
 - L'école privée 'Fastcampus' de développement iOS  (08/05/2018 ~ 24/08/2018)
   
-## compétences
+## Compétences
 ### iOS
 - Créer l'application d'iOS utilisant Swift 4
 - Appliquer open source library à l'application utilisant Cocoapods, Carthage
@@ -51,7 +51,7 @@ Langue : [Coréen](https://github.com/inswag/resume/blob/master/README_KR.md) /
 
 ### Cam pour l'été chaud (Fastcampus un jour Hackathon Projet)
 - Période : 13/07/2018
-- Rôle : Réaliser camera and filter
+- Rôle : Réaliser caméra et des filtres
 - Compétences : Swift
 
 
@@ -62,5 +62,5 @@ Langue : [Coréen](https://github.com/inswag/resume/blob/master/README_KR.md) /
 - Français
 
 ### Éducation
-- étudié d'études françaises et d'études de la région internationale à l'Université Hankuk des Études Êtrangères (2011 ~ 2018)
-- étudiéf français à l'Université de Cane Normandie (France) (2016)
+- Étudié d'études françaises et d'études de la région internationale à l'université Hankuk des études étrangères (2011 ~ 2018)
+- Étudiéf français à l'Université de Cane Normandie (France) (2016)
