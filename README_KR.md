@@ -39,7 +39,15 @@
 - 역할 : Main Page, Save List 구현
 - 기술 : Swift
 
-
+<div>
+<img width="250" src="https://github.com/inswag/resume/blob/master/images/AirBnB_Main.PNG">
+<img width="250" src="https://github.com/inswag/resume/blob/master/images/AirBnB_HouseList.PNG">
+<img width="250" src="https://github.com/inswag/resume/blob/master/images/AirBnB_countingPeople.PNG">  
+      
+<img width="250" src="https://github.com/inswag/resume/blob/master/images/AirBnB_Search.PNG">
+<img width="250" src="https://github.com/inswag/resume/blob/master/images/AirBnB_SeoulHouse.PNG">
+<img width="250" src="https://github.com/inswag/resume/blob/master/images/AirBnB_SaveList.PNG">
+</div>
 
 ### Cam for Hot summer (패스트캠퍼스 해커톤 프로젝트)
 - 기간 : 2018/07/13
