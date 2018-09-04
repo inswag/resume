@@ -61,8 +61,3 @@
 #### 해외탐사 프로그램 Locality Chellenge (우수상)
 - 한국외대 로컬리티 사업단 주최
 - 2015년 10월
-
-- 한-외 대학생 교류 프로그램 Locality Summer School 수료 (2015. 7 ~ 8, 2017. 6 ~ 7)
-- 한-외 대학생 교류 프로그램 Locality Summer School 수료 (2015. 7 ~ 8, 2017. 6 ~ 7)
-- 한-외 대학생 교류 프로그램 Locality Summer School 수료 (2015. 7 ~ 8, 2017. 6 ~ 7)
-- 한-외 대학생 교류 프로그램 Locality Summer School 수료 (2015. 7 ~ 8, 2017. 6 ~ 7)
