@@ -1,6 +1,6 @@
 # 이력서
 언어 : 한국어 / English / Français 
-
+<br/>
 ## 개인 정보
 - 이름 : 박인수
 - 나이 : 28 (2018년 기준)
@@ -11,15 +11,15 @@
 - 깃허브 : https://gitbut.com/inswag"
 - 이메일 : facessu@gmail.com
 - 블로그 : http://atelier-chez-moi.tistory.com
-
+<br/>
 ```
 늦었다고 생각하기 때문에 더 열심히 노력하려고 합니다.
 사람들은 나를 배신해도 노력은 나를 배신한다고 생각하지 않습니다.
 ```
-
+<br/>
 ## iOS 관련 경력
 - 패스트캠퍼스 iOS 개발 스쿨 7기 (2018. 5. 8 ~ 8. 24)  
-
+<br/>
 ## 활용가능 기술
 ### iOS
 - Swift 4 를 활용한 Application 제작
