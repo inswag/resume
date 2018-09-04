@@ -2,7 +2,7 @@
 언어 : 한국어 / English / Français 
 
 ## SNS
-- 깃허브 : https://gitbut.com/inswag"
+- 깃허브 : https://gitbut.com/inswag
 - 블로그 : http://atelier-chez-moi.tistory.com
 - 페이스북 : http://www.facebook.com/nameisssu
 - 인스타그램 : https://www.instagram.com/inswag_
@@ -39,16 +39,8 @@
 
 
 ## 부가 정보
-### 구사 가능 언어
-- 한국어
-- 영어
-- 프랑스어
-  
-### 그 외에..
-- 파워포인트르 활용한 프리젠테이션 작성 가능
-- 한글오피스를 활용한 보고서 작성 가능
-  
-### 대학생활
+
+### 대학 생활
 - 한국외국어대학교 프랑스학(문학사), 광역특화(국제지역학) 전공 (2011 ~ 2018)
 - Université de Caen Normandie 어학연수 (2016)
 - 한-외 대학생 교류 프로그램 Locality Summer School 수료 (2015. 7 ~ 8, 2017. 6 ~ 7)
@@ -66,3 +58,8 @@
 #### 해외탐사 프로그램 Locality Chellenge (우수상)
 - 한국외대 로컬리티 사업단 주최
 - 2015년 10월
+
+### 구사 가능 언어
+- 한국어
+- 영어
+- 프랑스어
