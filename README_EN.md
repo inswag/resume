@@ -36,7 +36,7 @@ Language : [Korean](https://github.com/inswag/resume/blob/master/README_KR.md) /
 ## iOS Project
 ### Copying AirBnB (Fastcampus Team Project)
 - Period : 30/07/2018 ~ 24/08/2018
-- role : implement main page and save list
+- Role : implement main page and save list
 - Skills : Swift
 #### Screen Shots
 <div>
@@ -62,5 +62,5 @@ Language : [Korean](https://github.com/inswag/resume/blob/master/README_KR.md) /
 
 ### Education
 
-- Studied French Studies, International region studies in Hankuk University of Foreign Studies  (2011 ~ 2018)
+- Studied French Studies, International Area Studies in Hankuk University of Foreign Studies  (2011 ~ 2018)
 - Studied French in University of Caen Normandy (France) (2016)

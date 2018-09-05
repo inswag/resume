@@ -39,6 +39,7 @@ Langue : [Coréen](https://github.com/inswag/resume/blob/master/README_KR.md) /
 - Période : 30/07/2018 ~ 24/08/2018
 - Rôle : Réaliser la page d'accueil et la liste
 - Compétences : Swift
+
 #### Capture d'écran
 <div>
 <img width="250" src="https://github.com/inswag/resume/blob/master/images/AirBnB_Main.PNG">
@@ -63,4 +64,4 @@ Langue : [Coréen](https://github.com/inswag/resume/blob/master/README_KR.md) /
 
 ### Éducation
 - Étudié d'études françaises et d'études de la région internationale à l'université Hankuk des études étrangères (2011 ~ 2018)
-- Étudiéf français à l'Université de Cane Normandie (France) (2016)
+- Étudié le français à l'Université de Caen Normandie (France) (2016)
