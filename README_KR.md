@@ -33,10 +33,12 @@
 ### 도구
 - 커뮤니케이션 : '슬랙(Slack)'
 - 이력 관리 : 분산 버전 관리 시스템 '깃허브(Github)'
-  
-  ### Design Pattern
-  - MVC, Delegate, Strategy, Singleton, Memento, Observer, Builder
-  
+
+
+### Design Pattern
+- MVC, Delegate, Strategy, Singleton, Memento, Observer, Builder
+
+
 ## 프로젝트 이력
 ### 에어비엔비 구현 (패스트캠퍼스 팀 프로젝트)
 - 기간 : 2018/07/30 ~ 2018/08/24
