@@ -38,6 +38,7 @@
 ### Design Pattern
 - MVC, Delegate, Strategy, Singleton, Memento, Observer, Builder
 
+![inscription](https://user-images.githubusercontent.com/39002173/56108934-5738a880-5f89-11e9-84a3-b73d9d5f8089.gif)
 
 ## 프로젝트 이력
 ### 에어비엔비 구현 (패스트캠퍼스 팀 프로젝트)
