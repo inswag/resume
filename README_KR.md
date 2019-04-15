@@ -38,9 +38,22 @@
 ### Design Pattern
 - MVC, Delegate, Strategy, Singleton, Memento, Observer, Builder
 
-![inscription](https://user-images.githubusercontent.com/39002173/56108934-5738a880-5f89-11e9-84a3-b73d9d5f8089.gif)
-
 ## 프로젝트 이력
+
+### 프랑스어 단어 학습 앱 'French Voca' (개인 프로젝트)
+- 기간 : 2018/12/01 ~ (진행중)
+- 역할 : Planning, Design, Database, Development
+- 기술 : Swift
+
+#### Screen Shots
+![inscription](https://user-images.githubusercontent.com/39002173/56110425-5dca1e80-5f8f-11e9-8d5b-aa791b56775f.gif)
+![accueil](https://user-images.githubusercontent.com/39002173/56110426-5dca1e80-5f8f-11e9-917e-cf22d34a85f1.gif)
+
+![vocabulaire](https://user-images.githubusercontent.com/39002173/56110423-5d318800-5f8f-11e9-9358-ed76e78e4653.gif)
+![paramètre](https://user-images.githubusercontent.com/39002173/56110424-5d318800-5f8f-11e9-977c-5707e9332766.gif)
+
+
+
 ### 에어비엔비 구현 (패스트캠퍼스 팀 프로젝트)
 - 기간 : 2018/07/30 ~ 2018/08/24
 - 역할 : Main Page, Save List 구현
