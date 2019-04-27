@@ -25,15 +25,15 @@
   
 ## 활용가능 기술
 ### iOS
-- Swift 4 를 활용한 Application 제작
-- Cocoapods, Carthage 를 사용하여 Open Source Library 적용
-- FireBase 를 통한 Real-time DB의 동작 이해
+- Swift 4.2 를 활용한 Application 제작
+- Cocoapods, Carthage 를 활용하여 Open Source Library 사용(Snapkit, Alamofire, etc)
+- FireBase, SQLite
 - Design Pattern 을 활용하여 앱의 기본적 설계 구현
  
 ### 도구
 - 커뮤니케이션 : '슬랙(Slack)'
 - 이력 관리 : 분산 버전 관리 시스템 '깃허브(Github)'
-
+- 디자인 : '스케치(Sketch)' & '제플림(Jeplin)'
 
 ### Design Pattern
 - MVC, Delegate, Strategy, Singleton, Memento, Observer, Builder
