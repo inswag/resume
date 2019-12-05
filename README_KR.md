@@ -4,15 +4,15 @@
       [Français](https://github.com/inswag/resume/blob/master/README_FR.md) 
 
 ## SNS
-- 깃허브 : https://github.com/inswag
-- 블로그 : http://atelier-chez-moi.tistory.com
-- 페이스북 : http://www.facebook.com/nameisssu
-- 인스타그램 : https://www.instagram.com/inswag_
-- 이메일 : facessu@gmail.com
+- [깃허브](https://github.com/inswag)
+- [개인 테크 블로그](http://atelier-chez-moi.tistory.com)
+- [페이스북](http://www.facebook.com/nameisssu)
+- [인스타그램](https://www.instagram.com/inswag_)
+- [이메일](facessu@gmail.com)
 
 ## 개인 정보
 - 이름 : 박인수
-- 취미 : 카페 코딩, 구글링, 온라인게임(배틀그라운드, 스타크래프트), 출사
+- 취미 : 독서, 온라인게임(배틀그라운드, 스타크래프트), 출사
 - 좌우명 : "뜻이 있는 곳에 길이 있다"
   
 ```
@@ -24,26 +24,28 @@
 - 패스트캠퍼스 iOS 개발 스쿨 7기 (2018. 5. 8 ~ 8. 24)
   
 ## 활용가능 기술
+
 ### iOS
-- Swift 4.2 를 활용한 Application 제작
-- Cocoapods, Carthage 를 활용하여 Open Source Library 사용(Snapkit, Alamofire, etc)
-- FireBase, SQLite
-- Design Pattern 을 활용하여 앱의 기본적 설계 구현
+- Swift 5.0 를 활용한 Application 제작
+- Cocoapods, Carthage 를 활용하여 Open Source Library 사용
+- FireBase 활용(Authentification, Database, Storage, FCM) 
+- SQLite 를 활용한 MySQL Local DB 구현
+- MVC 을 활용하여 앱의 기본적 설계 구현
  
 ### 도구
 - 커뮤니케이션 : '슬랙(Slack)'
-- 이력 관리 : 분산 버전 관리 시스템 '깃허브(Github)'
+- 이력 관리 : '깃허브(Github)'
 - 디자인 : '스케치(Sketch)' & '제플림(Jeplin)'
 
-### Design Pattern
-- MVC, Delegate, Strategy, Singleton, Memento, Observer, Builder
+
 
 ## 프로젝트 이력
 
 ### 프랑스어 단어 학습 앱 'French Voca' (개인 프로젝트)
-- 기간 : 2018/12/01 ~ (진행중)
-- 역할 : Planning, Design, Database, Development
-- 기술 : Swift
+- 기간 : 2019/10/1 ~ 2019/11/27
+- 역할 : 개인 프로젝트(기획, 디자인, 데이터베이스, 개발)
+- 기술 : Swift, MySQL
+- [App Store 링크](https://apps.apple.com/kr/app/frenchvoca/id1484363534?l=en) 
 
 #### Screen Shots
 ![inscription](https://user-images.githubusercontent.com/39002173/56110425-5dca1e80-5f8f-11e9-8d5b-aa791b56775f.gif)
@@ -51,6 +53,11 @@
 
 ![vocabulaire](https://user-images.githubusercontent.com/39002173/56110423-5d318800-5f8f-11e9-9358-ed76e78e4653.gif)
 ![paramètre](https://user-images.githubusercontent.com/39002173/56110424-5d318800-5f8f-11e9-977c-5707e9332766.gif)
+
+#### 주요 기능
+- WKWebview 를 활용한FLEX, DELF 시험 일정 확인
+- Local Notification 을 활용한 단어 알림
+- AVSpeechSynthesizer 를 활용한 발음 지원
 
 
 
